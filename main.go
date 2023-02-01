@@ -16,7 +16,7 @@ const html = `<html>
 </head>
 <body class="bg-black">
 	<div class="h-screen flex items-center justify-center">
-		<div class="text-6xl text-white">Hello, systemd-cd!</div>
+		<div class="text-6xl text-white">Hello, world!</div>
 	</div>
 </body>
 </html>`
