@@ -14,9 +14,9 @@ const html = `<html>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-black">
 	<div class="h-screen flex items-center justify-center">
-		<div class="text-6xl">Hello, systemd-cd!</div>
+		<div class="text-6xl text-white">Hello, systemd-cd!</div>
 	</div>
 </body>
 </html>`
