@@ -17,7 +17,7 @@ const html = `<html>
 <body class="bg-black">
 	<div class="h-screen flex items-center justify-center">
 		<div class="text-6xl text-white">
-			Hello, world!
+			Hello, tgif!
 		</div>
 	</div>
 </body>
